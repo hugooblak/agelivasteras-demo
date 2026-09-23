@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'AG-EL i Västerås AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '021-470 76 60',
 	'telefon_tel'    => '+46214707660',
 	'ort'            => 'Västerås',
